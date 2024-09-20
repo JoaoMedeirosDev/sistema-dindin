@@ -1,0 +1,31 @@
+{
+  "name": "desafio-backend-modulo-03-sistema-dindin-b2b-t04",
+  "version": "1.0.0",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/servidor.js",
+    "lint": "eslint src --ext js --fix"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.0.1",
+    "pg": "^8.11.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.48.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.28.1",
+    "eslint-plugin-n": "^16.0.2",
+    "eslint-plugin-prettier": "^5.0.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "prettier": "^3.0.3"
+  }
+}
