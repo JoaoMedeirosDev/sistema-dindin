@@ -3,7 +3,24 @@
 Um sistema para gerenciamento de finanças pessoais, permitindo o registro de transações, categorias e usuários.
 
 ## 📂 Estrutura do Projeto
-sistema-dindin/ ├── src/ │ ├── rotas/ │ │ ├── usuarios.js │ │ ├── transacoes.js │ │ └── categorias.js │ ├── app.js │ └── servidor.js ├── .env ├── .env.example ├── .eslintrc.js ├── .gitignore ├── dump.sql ├── package.json └── package-lock.json
+
+```
+sistema-dindin/ 
+├── src/ │
+├── rotas/ │
+│ ├── usuarios.js │
+│ ├── transacoes.js │
+│ └── categorias.js │
+├── app.js │
+└── servidor.js
+├── .env
+├── .env.example
+├── .eslintrc.js
+├── .gitignore
+├── dump.sql
+├── package.json
+└── package-lock.json
+```
 
 
 ## 🚀 Tecnologias Utilizadas
